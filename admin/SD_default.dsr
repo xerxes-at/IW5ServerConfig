@@ -129,8 +129,10 @@ gameOpt commonOption.weaponRestricted.iw5_44magnum "0" // [ 0, 1 ]
 gameOpt commonOption.weaponRestricted.iw5_aa12 "0" // [ 0, 1 ]
 gameOpt commonOption.weaponRestricted.iw5_acr "0" // [ 0, 1 ]
 gameOpt commonOption.weaponRestricted.iw5_ak47 "0" // [ 0, 1 ]
+gameOpt commonOption.weaponRestricted.iw5_ak74u "0"
 gameOpt commonOption.weaponRestricted.iw5_as50 "0" // [ 0, 1 ]
 gameOpt commonOption.weaponRestricted.iw5_barrett "0" // [ 0, 1 ]
+gameOpt commonOption.weaponRestricted.iw5_cheytac "0"
 gameOpt commonOption.weaponRestricted.iw5_cm901 "0" // [ 0, 1 ]
 gameOpt commonOption.weaponRestricted.iw5_deserteagle "0" // [ 0, 1 ]
 gameOpt commonOption.weaponRestricted.iw5_dragunov "0" // [ 0, 1 ]
